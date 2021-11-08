@@ -1,0 +1,129 @@
+/Users/ben/PycharmProjects/NPython/venv/bin/python /Users/ben/PycharmProjects/NPython/autoString.py
+raw data  {'phone_number': '电话号码', 'vCode': '验证码', 'getVCode': '获取验证码', 'code_send_success': '验证码发送成功', 'login': '登录', 'pp': '《隐私政策》', 'rade_success': '我已仔细阅读并同意遵守:', 'send_success': '发送验证码成功！', 'please_selected': '请勾选隐私政策', 'my_info': '我的资料', 'my_loan': '我的贷款', 'my_call': '客服电话', 'about_us': '关于我们', 'my_exit': '退出登录', 'product_tip': '按时还款，可自动提升额度', 'curr_loan_money': '当前可借金额', 'loan_date': '借款期限', 'go_loan': '去借款', 'loan_tip': 'เข้าบัญชีตามเวลาจริง 100% อิงจากเครดิตสินเชื่อ', 'review_tip': '正在为您尽快审核，请耐心等待，并保持电话畅通', 'face_title': '人脸认证', 'face_tip': '为了保障您的财产安全\n需要进行人脸识别', 'certification': '认证', 'user_info': '个人信息', 'next_tip': '下一步', 'please_input': '请输入', 'upload_id_t': '上传身份证正面', 'id_number': '身份证号', 'name': '姓名', 'birthday': '生日', 'gender': '性别', 'email': '电子邮箱', 'nick_name': '小名', 'home_type': '居住类型', 'home_time': '居住时长', 'home_city': '居住省份', 'details_address': '详细地址', 'education': '学历', 'marriage': '婚姻', 'how_children': '孩子数', 'work_info': '职业信息', 'confirm_request': '确认申请', 'confirm_request_tip': '您的申请已提交\n请耐心等待审核， 请保持电话联系', 'loan_money': '借款金额（泰铢）', 'loan_amount': '借款金额（泰铢）', 'loan_period': '借款期限', 'please_check': '请选择', 'photo_tip_f': '四角完整', 'photo_tip_s': '照片清晰', 'iknow': '我知道了', 'cancel': '取消', 'ok': '确定', 'job': '您的身份', 'select_job': '请选择您的身份', 'job_type': '职业类型', 'select_job_type': '请选择您的职业', 'industry': '行业分类', 'select_industry': '请选择您的行业', 'salary_range': '收入范围', 'select_salary_range': '请选择您的收入范围', 'comp_name': '公司名称', 'comp_address': '公司地址', 'select_comp_address': '请选择公司的省份', 'detail_address': '详细地址', 'comp_phone': '公司电话', 'contact_name_f': '第一联系人姓名', 'contact_name_s': '第二联系人姓名', 'relationship_with_you': '和您的关系', 'contact_number': '联系电话', 'contact_info': '联系人信息', 'card_info': '银行卡信息', 'cardholder': '持卡人', 'bank_account': '银行账号', 'open_account_bank': '开户银行', 'select_open_account_bank': '请选择开户银行', 'province': '省份', 'city': '城市', 'unlocked': '待解锁', 'exit_app_tip': '确定退出当前账号？', 'review': '审核中', 'review_time': '申请时间', 'review_faile': '审核未通过', 'repay': '待还款', 'over': '已逾期', 'settle': '已结清', 'reapy_time': '应还时间', 'amount_repaid': '待还金额', 'pay_time': '还款时间', 'pay_money': '已还金额', 'wait_pay_tip': '您的贷款已经到账，请留意还款时间', 'remainAmount': '待还金额', 'depositTime': '应还时间', 'interest': '利息', 'penalty': '罚息', 'fale_fee': '滞纳金', 'pay': '支付费用', 'risk': '技术服务费', 'service': '审核咨询费', 'to_pay': '去还款', 'all_pay': '全部还款', 'sub_pay': '展期还款', 'amount_due': '应还金额', 'sub_amount_due': '应还展期金额', 'bank': '银行', 'bank_number': '银行卡号', 'reapay_bank_code': '还款银行账号', 'upload_repayment': '上传还款凭证', 'repayment_sign': '还款标志', 'account_name': '账户名', 'repay_amo': '还款额', 'start_time': '展期开始时间', 'end_time': '展期结束时间', 'jx_tip': '请先点击下一步，再上传还款凭证', 'submit': '提交', 'repayment': '还款', 'upload_pay_tip': '还款凭证上传成功，我们将尽快核对\n注意查看您的还款状态', 'choose_get_photo': '选择图片获取方式', 'photograph': '拍照', 'select_album': '选取相册'}
+未搜索到的字符
+repayment   ชำระเงินคืน
+pay_time    เวลาชำระคืน
+getVCode   获取验证码
+jx_tip   กรุณาคลิก ขั้นตอนถัดไป ก่อน แล้วจึงอัปโหลดสลิปการชำระคืน
+my_call   ติดต่อฝ่ายบริการลูกค้า
+nick_name   ชื่อเล่น
+confirm_request   ยืนยันการสมัครสินเชื่อ
+
+penalty   罚息
+my_info   ข้อมูลฉัน
+select_album   选取相册
+reapay_bank_code   还款银行账号
+bank_account   หมายเลขบัญชีธนาคาร
+curr_loan_money   จำนวนเงินที่สามารถกู้ยืมได้ในปัจจุบัน
+select_industry   โปรดเลือกอุตสาหกรรมของคุณ
+iknow   ฉันทราบแล้ว
+repayment_sign   รหัสยืนยันการชำระ
+photo_tip_s   รูปถ่ายชัดเจน
+card_info   ข้อมูลบัตรธนาคาร
+please_input   กรุณาป้อน
+wait_pay_tip   เงินกู้ของคุณเข้าบัญชีแล้ว โปรดจำเวลาการชำระคืน
+pay   ค่าธรรมเนียมการดำเนินการ
+user_info   ข้อมูลส่วนบุคคล
+start_time   วันที่เริ่มต้นขยายเวลา
+rade_success   我已仔细阅读并同意遵守:
+settle   ชำระคืนเรียบร้อย
+marriage   婚姻
+go_loan   ยืมเงิน
+fale_fee   滞纳金
+email   อีเมล์
+exit_app_tip   确定退出当前账号？
+login   เข้าสู่ระบบ
+product_tip   ชำระคืนตรงเวลา สามารถเพิ่มวงเงินโดยอัตโนมัติ
+province   จังหวัด
+unlocked   รอปลดล็อค
+bank_number   หมายเลขบัญชีธนาคาร
+education   ระดับการศึกษา
+amount_due   จำนวนเงินที่ต้องชำระคืน
+
+loan_date   ระยะเวลาการกู้
+sub_amount_due   จำนวนเงินขยายเวลา
+salary_range   ระดับรายได้
+city   เมือง
+job_type   ประเภทอาชีพ
+my_loan   เงินกู้ของฉัน
+contact_name_f   ชื่อผู้ติดต่อคนที่ 1
+my_exit   ออกจากระบบ
+detail_address   ที่อยู่รายละเอียด
+photo_tip_f   ครบทั้งสี่มุม
+cardholder   ผู้ถือบัตร
+id_number   หมายเลขบัตรประชาชน
+how_children   จำนวนบุตร
+repay_amo   还款额
+vCode   รหัสยืนยัน
+please_selected   请勾选隐私政策
+next_tip   ขั้นตอนถัดไป
+code_send_success   ส่งรหัสยืนยันสำเร็จ
+upload_repayment   上传还款凭证
+home_time   ระยะเวลาอาศัยอยู่
+sub_pay   ชำระค่าขยายเวลา
+relationship_with_you   มีความสัมพันธ์กับคุณ
+contact_number   เบอร์ติดต่อ
+pp   นโยบายความเป็นส่วนตัว
+select_salary_range   กรุณาเลือกระดับรายได้
+home_type   ประเภทที่พักอาศัย
+details_address   ที่อยู่รายละเอียด
+confirm_request_tip   您的申请已提交
+请耐心等待审核， 请保持电话联系
+work_info   ข้อมูลอาชีพ
+to_pay   ไปชำระคืน
+review   กำลังตรวจสอบ
+ok   ตกลง
+birthday   วันเกิด
+loan_period   ระยะเวลาการกู้
+please_check   请选择
+select_comp_address   请选择公司的省份
+remainAmount   จำนวนเงินที่ต้องชำระ
+review_tip   正在为您尽快审核，请耐心等待，并保持电话畅通
+face_title   การตรวจสอบใบหน้า
+select_job   โปรดเลือกตัวตนของคุณ
+choose_get_photo   选择图片获取方式
+contact_name_s   ชื่อผู้ติดต่อคนที่ 2
+send_success   发送验证码成功！
+all_pay   ชำระปิดยอด
+comp_phone   เบอร์ติดต่อบริษัท
+reapy_time   应还时间
+repay   รอชำระคืน
+account_name   ชื่อบัญชี
+submit   เสนอให้
+loan_amount   借款金额（泰铢）
+amount_repaid   จำนวนเงินที่ต้องชำระ
+about_us   เกี่ยวกับเรา
+certification   ยืนยัน
+comp_name   ชื่อของบริษัท
+
+face_tip   为了保障您的财产安全
+需要进行人脸识别
+photograph   拍照
+end_time   วันที่ต้องชำระเงินหลังจากขยายเวลา
+depositTime   应还时间
+cancel   ยกเลิก
+bank   ธนาคาร
+review_faile   สินเชื่อไม่ผ่านการอนุมัต
+open_account_bank   บัญชีธนาคาร
+job   ตัวตนของคุณ
+comp_address   ที่อยู่บริษัท
+over   หนี้การค้างชำระ
+loan_money   借款金额（泰铢）
+name   ชื่อ
+review_time   เวลาสมัคร
+service   ค่าธรรมเนียมการตรวจสอบ
+gender   เพศ
+phone_number   电话号码
+contact_info   ข้อมูลติดต่อ
+industry   ประเภทอาชีพ
+select_open_account_bank   กรุณาเลือกบัญชีธนาคาร
+interest   ดอกเบี้ย
+select_job_type   กรุณาเลือกอาชีพของท่าน
+risk   技术服务费
+upload_pay_tip   还款凭证上传成功，我们将尽快核对
+注意查看您的还款状态
+upload_id_t   อัพโหลดหน้าบัตรประชาชน
+pay_money   จำนวนเงินที่ชำระคืนแล้ว
+home_city   居住省份
+
+Process finished with exit code 0
